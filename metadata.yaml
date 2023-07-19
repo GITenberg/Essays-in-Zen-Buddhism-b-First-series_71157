@@ -1,0 +1,25 @@
+_repo: Essays-in-Zen-Buddhism-b-First-series_71157
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suzuki, Daisetz Teitaro
+    gutenberg_agent_id: '56096'
+    url: http://www.gutenberg.org/2009/agents/56096
+description: ''
+gutenberg_issued: '2023-07-10'
+identifiers:
+  gutenberg: '71157'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015001526584&view=1up&seq=7
+pgterms:marc905: 20230105122103suzuki
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Anonymous
+publication_note: '  $aUnited Kingdom :$bLuzac and Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Essays in Zen Buddhism : $b First series'
+url: http://www.gutenberg.org/ebooks/71157
