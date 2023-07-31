@@ -1,11 +1,16 @@
 _repo: Essays-in-Zen-Buddhism-b-First-series_71157
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71157-h/images/cover.png
 creator:
   author:
     agent_name: Suzuki, Daisetz Teitaro
     gutenberg_agent_id: '56096'
     url: http://www.gutenberg.org/2009/agents/56096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71157#Essays-in-Zen-Buddhism-b-First-series
 gutenberg_issued: '2023-07-10'
 identifiers:
   gutenberg: '71157'
